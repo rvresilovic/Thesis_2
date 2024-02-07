@@ -1,0 +1,6 @@
+~ $ git clone https://github.com/rvresilovic/rvresilovic.github.io
+~ $ cd rvresilovic.github.io
+~ $ echo "Hello World" > index.html
+~ $ git add --all
+~ $ git commit -m "Initial comment"
+~ $ git push -u origin main
